@@ -25,6 +25,8 @@ WPF入门学习
 - [GitHub - Modern UI for WPF (MUI)](https://github.com/firstfloorsoftware/mui)
 - [GitHub - WPF图表控件](https://github.com/Live-Charts/Live-Charts)
 - [GitHub - Bootstrap风格的WPF样式](https://github.com/ptddqr/bootstrap-wpf-style)
+- [Visual Studio 图标库](https://docs.microsoft.com/zh-cn/visualstudio/designers/the-visual-studio-image-library?view=vs-2017)
+- [visual studio 图标库下载](https://www.microsoft.com/en-us/download/details.aspx?id=35825)
 
 ## 其它相关链接
 - [微软Windows Forms/WPF/WinUI宣布开源](https://www.ithome.com/0/398/531.htm)
@@ -32,5 +34,3 @@ WPF入门学习
 - [博客园网友作品 · WPF实现三星手机充电界面](http://www.cnblogs.com/tsliwei/p/5770546.html)
 - [腾讯QQ概念版](http://im.qq.com/qq/gainian/)
 - [GitHub - .Net - WPF](https://github.com/dotnet/wpf)
-- [Visual Studio 图标库](https://docs.microsoft.com/zh-cn/visualstudio/designers/the-visual-studio-image-library?view=vs-2017)
-- [visual studio 图标库下载](https://www.microsoft.com/en-us/download/details.aspx?id=35825)
