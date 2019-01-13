@@ -13,7 +13,6 @@ WPF入门学习
 - [极客学院 · WPF系列入门视频: WPF应用](https://ke.jikexueyuan.com/xilie/169)
 - [练习：提供WPF各项功能的专项小练习](https://docs.microsoft.com/zh-cn/dotnet/framework/wpf/getting-started/wpf-walkthroughs)
 - [WPF-Samples: GitHub上的WPF各种官方示例项目，可作为练习，也可作为手册参考](https://github.com/Microsoft/WPF-Samples)
-- []()
 
 ## 进阶学习资料
 - [WPF 微软官方文档](https://docs.microsoft.com/zh-cn/dotnet/framework/wpf/index)
@@ -33,3 +32,5 @@ WPF入门学习
 - [博客园网友作品 · WPF实现三星手机充电界面](http://www.cnblogs.com/tsliwei/p/5770546.html)
 - [腾讯QQ概念版](http://im.qq.com/qq/gainian/)
 - [GitHub - .Net - WPF](https://github.com/dotnet/wpf)
+- [Visual Studio 图标库](https://docs.microsoft.com/zh-cn/visualstudio/designers/the-visual-studio-image-library?view=vs-2017)
+- [visual studio 图标库下载](https://www.microsoft.com/en-us/download/details.aspx?id=35825)
